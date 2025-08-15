@@ -1,0 +1,16 @@
+{
+  "name": "javis-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Javis AI WhatsApp Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "pino": "^8.1.0",
+    "node-cache": "^5.1.2",
+    "axios": "^1.2.1",
+    "fs": "^0.0.1-security"
+  }
+}
